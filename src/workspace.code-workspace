@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\GoMyCode"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
